@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-	<script type="text/javascript" src="script.js"></script>
+<script type="text/javascript" src="script.js"></script>
 </head>
 <body>
 	<table border="1" align="center">
